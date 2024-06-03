@@ -1,0 +1,17 @@
+2024-06-03 10:00:01,001 INFO  [main] - Starting Spring Boot application
+2024-06-03 10:00:01,234 INFO  [main] - Application context initialized
+2024-06-03 10:00:01,456 INFO  [main] - Connecting to database
+2024-06-03 10:00:02,789 INFO  [main] - Database connection established
+2024-06-03 10:00:03,012 INFO  [main] - Initializing service components
+2024-06-03 10:00:03,345 INFO  [main] - Service components initialized
+2024-06-03 10:00:05,678 INFO  [main] - Application started successfully
+2024-06-03 10:15:30,123 INFO  [http-nio-8080-exec-1] - Received request for endpoint /api/data
+2024-06-03 10:15:30,345 INFO  [http-nio-8080-exec-1] - Processing request with ID: 12345
+2024-06-03 10:15:30,567 ERROR [http-nio-8080-exec-1] - Error occurred while calling 3rd party service: TimeoutException: Request timed out after 5000ms
+2024-06-03 10:15:30,789 INFO  [http-nio-8080-exec-1] - Responded with status 504 for request ID: 12345
+2024-06-03 11:00:01,001 INFO  [main] - Scheduled maintenance task started
+2024-06-03 11:00:02,123 INFO  [main] - Maintenance task completed successfully
+2024-06-03 12:00:01,001 INFO  [main] - Application shutdown initiated
+2024-06-03 12:00:01,234 INFO  [main] - Closing application context
+2024-06-03 12:00:01,456 INFO  [main] - Application context closed
+2024-06-03 12:00:01,789 INFO  [main] - Application shutdown completed
