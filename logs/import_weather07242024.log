@@ -1,0 +1,10 @@
+2024-06-05 14:45:01,003 INFO  [main] - Starting data import process
+2024-06-05 14:45:01,145 INFO  [main] - PostgreSQL environment setup complete
+2024-06-05 14:45:01,678 INFO  [main] - Connecting to production database
+2024-06-05 14:45:02,901 INFO  [main] - Connection to database established successfully
+2024-06-05 14:45:03,234 INFO  [main] - Importing data from file: /path/to/data/weather_stations.xlsx
+2024-06-05 14:45:05,567 INFO  [main] - Data import in progress...
+2024-06-05 14:52:34,890 INFO  [main] - Data import completed successfully
+2024-06-05 14:52:35,123 INFO  [main] - Creating resulting table: meteorological_data
+2024-06-05 14:53:01,456 INFO  [main] - Table meteorological_data created successfully
+2024-06-05 14:53:01,789 INFO  [main] - Data import process finished

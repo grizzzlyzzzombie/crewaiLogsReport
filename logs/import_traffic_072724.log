@@ -1,0 +1,10 @@
+2024-06-04 11:30:01,002 INFO  [main] - Starting data import process
+2024-06-04 11:30:01,134 INFO  [main] - QGIS environment setup complete
+2024-06-04 11:30:01,567 INFO  [main] - Connecting to production database
+2024-06-04 11:30:02,890 INFO  [main] - Connection to database established successfully
+2024-06-04 11:30:03,123 INFO  [main] - Importing data from file: /path/to/data/traffic_flow.geojson
+2024-06-04 11:30:05,456 INFO  [main] - Data import in progress...
+2024-06-04 11:37:23,789 INFO  [main] - Data import completed successfully
+2024-06-04 11:37:24,012 INFO  [main] - Creating resulting table: urban_traffic_analysis
+2024-06-04 11:37:50,345 INFO  [main] - Table urban_traffic_analysis created successfully
+2024-06-04 11:37:50,678 INFO  [main] - Data import process finished
